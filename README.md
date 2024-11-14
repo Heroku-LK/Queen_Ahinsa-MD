@@ -96,7 +96,7 @@ jobs:
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-<h1> ❤❤ MY OLD BABY IS HIMASHA DISHANI ❤❤</h1>
+<h1> ❤❤</h1>
    
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
