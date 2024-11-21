@@ -6,6 +6,6 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "Fu93DSAS#REOYweYsbhX5Jwa2X5vrht_WQpKrReGGeZEg5olWZJQ",
-MONGODB: process.env.MONGODB || "mongodb+srv://whatsappbot11000:<db_password>@cluster0.hbfdf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+MONGODB: process.env.MONGODB || "mongodb://mongo:femHfGLKcnAgOqrZAMfiRNTHAbRGzJyM@junction.proxy.rlwy.net:22564",
 
 };
